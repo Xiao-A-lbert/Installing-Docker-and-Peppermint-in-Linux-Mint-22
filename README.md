@@ -1,7 +1,7 @@
 # Installing Docker and Peppermint in Linux Mint 22
 
 <h2>Description</h2>
-In this IT Help Desk task, I installed Docker on my Linux Mint 22 Destktop and successfully logged into the Peppermint ticketing dashboard. 
+In this IT Help Desk task, I installed Docker on my Linux Mint 22 Desktop and successfully logged into the Peppermint ticketing dashboard. 
 <br />
 
 
