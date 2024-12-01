@@ -53,7 +53,9 @@ I ran "sudo docker compose up" not the suggested "docker-compose up -d" from the
 
 <br />
 <br />
-Logged into the server with default logins from docs.peppermint.sh/docker website. Success.  
+Logged into the server with default logins from docs.peppermint.sh/docker website. 
+The address was http://localhost:3000 not localhost:5003 in the YML file while Docker is running. 
+Success.  
 
 ![6) login successful](https://github.com/user-attachments/assets/2d5a9d94-72b1-41e0-9035-e046055607b6)
 
