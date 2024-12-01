@@ -47,7 +47,7 @@ I had trouble reaching the site since the URL wasn't configured. I manually inse
 
 <br />
 <br />
-I ran "sudo docker compose up" not the suggested "docker-compose up -d" from the docs.peppermint.sh/docker website since those command did not work for me. 
+I ran "sudo docker compose up" not the suggested "docker-compose up -d" from the docs.peppermint.sh/docker website since those commands did not work for me. 
 
 ![5) run docker compose](https://github.com/user-attachments/assets/70867219-0856-41dd-b1b5-f66afbac35aa)
 
